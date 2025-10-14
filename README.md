@@ -21,7 +21,7 @@ O que me diferencia é a combinação de olhar técnico e atenção aos detalhes
 - Acompanhamento e documentação de defeitos (Jira / Azure DevOps)  
 - Validação de dados em MySQL e monitoramento de pipelines (Azure DevOps)  
 - Comunicação clara entre times: steps-to-reproduce, evidências e priorização  
-- Trabalho em ambientes ágeis (Scrum) e foco em redução de retrabalho
+- Trabalho em ambientes ágeis (Kanban) e foco em redução de retrabalho
 
 ---
 
