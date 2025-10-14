@@ -1,44 +1,113 @@
-# 👋 Hello! Welcome to my GitHub profile
-## My name is Felipe and I'm a Technical Support Analyst
+Felipe Medola Barranco — Analista de QA Manual
 
-🔭 I currently work at MicroWork Softwares as a Technical Support Analyst.  
-🌱 I’m currently learning programming with the goal of transitioning to a development role.  
-📍  Based in Santa Bárbara d'Oeste, São Paulo, Brazil.  
-👯 I’m open to collaborating on projects that help me learn more about programming and development.  
-📫 How to contact me: [felipe.medola@hotmail.com](mailto:felipe.medola@hotmail.com)
+Sou Analista de QA Manual com experiência em testes funcionais, de regressão e aceitação, elaboração e execução de casos de teste, gestão de defeitos (Jira / Azure DevOps), validação de dados em MySQL e monitoramento de pipelines CI/CD.
 
----
+📌 Sumário
 
-## Tools and Technologies
+Local: Santa Bárbara d’Oeste / SP
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+Objetivo: Analista de QA Manual
 
----
+Contato: felipe.medola@hotmail.com
+ · (19) 98444-5524
 
-## I’m Learning
+LinkedIn: https://www.linkedin.com/in/felipe-barranco
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>  
+GitHub: https://github.com/felipemedola
 
----
+🛠️ Habilidades
 
-## 🌐 Contact
+Testes manuais: funcionais, regressão e aceitação
 
-<div>
-<a href="https://github.com/felipemedola" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-</a>
-<a href="https://www.linkedin.com/in/felipe-barranco?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-</div>
+Elaboração e execução de casos de teste
 
----
+Gestão de defeitos: Jira, Azure DevOps
 
-## 📊 My GitHub Stats
+Ferramentas: Postman, MySQL (validação de dados), Pacote Office
 
-<div>
-<a href="https://github.com/felipemedola">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemedola&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=felipemedola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+Noções de CI/CD: monitoramento de builds e pipelines
+
+Metodologias ágeis / Scrum
+
+💼 Experiência (resumo)
+
+Microwork Softwares — Analista de QA Manual Pleno (03/2025 — atualmente)
+
+Execução de testes manuais, elaboração de casos de teste, testes de regressão e aceitação, registro e acompanhamento de defeitos, validação de dados e suporte ao ciclo de entrega.
+
+Microwork Softwares — Analista de Suporte Técnico (06/2021 — 03/2025)
+
+Atendimento e triagem de chamados, documentação e suporte a usuários.
+
+Microwork Softwares — Estagiário em Suporte Técnico (02/2021 — 05/2021)
+
+Suporte inicial e registro de incidentes.
+
+🎯 Certificações
+
+EXIN Agile Scrum Foundation — Udemy (2025)
+
+Microsoft Azure Fundamentals — Microsoft (2024)
+
+AWS Discovery Day — Ka Solution (2022)
+
+📁 Projetos
+
+Abaixo um template que você pode usar para adicionar cada repositório do seu GitHub.
+
+### Nome-do-Projeto
+Breve descrição (objetivo / contexto)
+
+**Tecnologias:** Postman | MySQL | Azure DevOps | Jira | etc.
+
+**Como executar:**
+1. `git clone https://github.com/felipemedola/nome-do-projeto.git`
+2. Entrar na pasta: `cd nome-do-projeto`
+3. Instruções de setup (ex.: instalar dependências, importar banco de dados)
+4. Como rodar os testes / verificar resultados
+
+**Contribuições:**
+- Abra uma *issue* para sugerir melhorias
+- Para mudanças pequenas: envie um *pull request* com descrição clara
+
+Exemplo (modelo)
+### test-plan-exemplo
+Repositório com templates de planos de teste e casos de teste em Markdown/CSV.
+
+**Tecnologias:** Markdown, CSV
+
+**Como usar:**
+1. `git clone https://github.com/felipemedola/test-plan-exemplo.git`
+2. Abrir os arquivos `.md` ou `.csv` e adaptar conforme o projeto
+
+🤝 Como contribuir
+
+Abra uma issue descrevendo a sugestão ou bug.
+
+Faça um fork, crie uma branch com sua feature/fix (feature/nome-da-feature) e envie um PR com descrição clara.
+
+Adicione testes ou exemplos quando aplicável.
+
+Marque-me (@felipemedola) em PRs/Issues para revisão.
+
+🧾 Boas práticas para repositórios deste perfil
+
+README claro com objetivo do projeto e instruções de setup.
+
+Git commits pequenos e descritivos.
+
+Use Issues para rastrear bugs e melhorias.
+
+Inclua exemplos de execução e, se possível, dados de teste (anônimos).
+
+📬 Contato
+
+E-mail: felipe.medola@hotmail.com
+
+LinkedIn: https://www.linkedin.com/in/felipe-barranco
+
+GitHub: https://github.com/felipemedola
+
+⚖️ Licença
+
+Licensed under the MIT License. Veja o arquivo LICENSE para detalhes.
